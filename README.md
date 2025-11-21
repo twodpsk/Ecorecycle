@@ -1,4 +1,4 @@
-# 분리수거 분류 및 식물 성장 앱
+# AI분리수거
 
 <!-- 한 줄에 4개 이미지, 크기 작게 -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
