@@ -2,7 +2,7 @@
 <!-- 한 줄에 4개 이미지 고정 -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" width="250" />
-  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" width="250" />
+  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" width="250" />\n
   <img src="https://github.com/user-attachments/assets/54769263-e853-494e-997e-a1d1acd50bff" width="250" />
   <img src="https://github.com/user-attachments/assets/dbe0027b-9c2f-427c-b332-60ae346696de" width="250" />
 </div>
