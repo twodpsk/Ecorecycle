@@ -1,11 +1,11 @@
 # 분리수거 분류 및 식물 성장 앱
 
-<!-- 2행 2열 이미지 정렬 -->
-<div style="display: grid; grid-template-columns: 250px 250px; grid-template-rows: auto auto; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" alt="이미지1" width="250" />
-  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" alt="이미지2" width="250" />
-  <img src="https://github.com/user-attachments/assets/54769263-e853-494e-997e-a1d1acd50bff" alt="이미지3" width="250" />
-  <img src="https://github.com/user-attachments/assets/dbe0027b-9c2f-427c-b332-60ae346696de" alt="이미지4" width="250" />
+<!-- 한 줄에 4개 이미지, 크기 작게 -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" width="180" alt="이미지1" />
+  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" width="180" alt="이미지2" />
+  <img src="https://github.com/user-attachments/assets/54769263-e853-494e-997e-a1d1acd50bff" width="178" alt="이미지3" />
+  <img src="https://github.com/user-attachments/assets/dbe0027b-9c2f-427c-b332-60ae346696de" width="175.5" alt="이미지4" />
 </div>
 
 
