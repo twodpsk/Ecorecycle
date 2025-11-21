@@ -1,5 +1,8 @@
 # 분리수거 분류 및 식물 성장 앱
-<img width="518" height="985" alt="image" src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" /> <img width="519" height="984" alt="image" src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" />
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" width="250" />
+  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" width="250" />
+</p>
 
 
 ## 문제의식
