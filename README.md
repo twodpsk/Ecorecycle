@@ -1,5 +1,6 @@
 # 분리수거 분류 및 식물 성장 앱
-<img width="190" height="218" alt="image" src="https://github.com/user-attachments/assets/94ceaf85-4923-46c9-a395-4e38446e627e" />
+<img width="518" height="985" alt="image" src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" /> <img width="519" height="984" alt="image" src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" />
+
 
 ## 문제의식
 한국에서 **분리배출 규칙에 대한 인식 부족**과 **실제 재활용률의 낮음**이 큰 문제 특히, 사람들이 **분리배출 규칙을 잘 모르거나 헷갈려** 재활용이 제대로 이루어지지 않으며, 이로 인해 환경 오염이 발생하고 있음. 또한, **선별시설의 비효율성**과 **폐플라스틱 증가** 등의 문제도 환경 문제를 악화시키고 있음
