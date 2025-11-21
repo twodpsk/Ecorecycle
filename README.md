@@ -1,11 +1,13 @@
 # 분리수거 분류 및 식물 성장 앱
-<!-- 한 줄에 4개 이미지 고정 -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" width="250" />
-  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" width="250" />
-  <img src="https://github.com/user-attachments/assets/54769263-e853-494e-997e-a1d1acd50bff" width="250" />
-  <img src="https://github.com/user-attachments/assets/db0027b-9c2f-427c-b332-60ae346696de" width="250" />
+
+<!-- 2행 2열 이미지 정렬 -->
+<div style="display: grid; grid-template-columns: 250px 250px; grid-template-rows: auto auto; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/ebb9f7c6-4025-40dc-b991-a1a89b82b49f" alt="이미지1" width="250" />
+  <img src="https://github.com/user-attachments/assets/d6de90bd-79ea-494c-974e-ec752f9d4002" alt="이미지2" width="250" />
+  <img src="https://github.com/user-attachments/assets/54769263-e853-494e-997e-a1d1acd50bff" alt="이미지3" width="250" />
+  <img src="https://github.com/user-attachments/assets/dbe0027b-9c2f-427c-b332-60ae346696de" alt="이미지4" width="250" />
 </div>
+
 
 ## 문제의식
 한국에서 **분리배출 규칙에 대한 인식 부족**과 **실제 재활용률의 낮음**이 큰 문제 특히, 사람들이 **분리배출 규칙을 잘 모르거나 헷갈려** 재활용이 제대로 이루어지지 않으며, 이로 인해 환경 오염이 발생하고 있음. 또한, **선별시설의 비효율성**과 **폐플라스틱 증가** 등의 문제도 환경 문제를 악화시키고 있음
