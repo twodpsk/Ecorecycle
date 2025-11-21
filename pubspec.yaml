@@ -1,0 +1,36 @@
+name: airecycle
+description: "AI 기반 재활용 분류 앱"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.3
+  path_provider: ^2.0.15
+  tflite_flutter: ^0.12.1
+  image: ^4.5.4
+  permission_handler: ^11.0.0
+  google_maps_flutter: ^2.3.0
+  image_picker: ^1.1.0 # 최신 버전으로 변경 가능
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sprout.png
+
+    - assets/spray1.png
+    - assets/spray2.png
+    - assets/spray3.png
+    - assets/dress1.png
+    - assets/dress2.png
+    - assets/dress3.png
+    - assets/dress4.png
